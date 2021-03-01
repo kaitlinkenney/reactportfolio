@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "title": "FiveWire Music",
+      "projimage": "appSC.png",
+      "description": "Create playlists & see trending songs! You must have a Spotify account to access FiveWire. If you don't have a FiveWire account, log into the guest account with the username: guestuser and password: password",
+      "projurl": "https://group5-proj2.herokuapp.com/",
+      "giturl": "https://github.com/nickkdb/Group5-Proj2"
+    },
+    {
+        "id": 2,
+        "title": "SmartTrvl",
+        "projimage": "smrttrvl.png",
+        "description": "Travel during the COVID-19 pandemic poses extra risk. Enter the airport code for your flight origin and destination, along with your max budget. You'll be given flights within your price range, and COVID statistics for your given country.",
+        "projurl": "https://kaitlinkenney.github.io/SmartTrvlApp/",
+        "giturl": "https://github.com/kaitlinkenney/SmartTrvlApp"
+    },
+    {
+        "id": 3,
+        "title": "Eat-Da-Burger",
+        "projimage": "burgerpic.png",
+        "description": "Enter a burger that sounds delicious, which will append that burger to the screen. Then, devour the burger with the Devour button, marking the burger as devoured. Click the Delete button to get rid of your burger.",
+        "projurl": "https://burger-homework123456.herokuapp.com/",
+        "giturl": "https://github.com/kaitlinkenney/eat-the-burger"
+    },
+    {
+        "id": 4,
+        "title": "Employee Tracker",
+        "projimage": "empltrack.png",
+        "description": "This command-line application allows the user to manage employees, departments, job roles, and employee managers in a database through viewing, adding, updating, and deleting entries.",
+        "projurl": "https://drive.google.com/file/d/1qsMD6eBLb2imkib5W2iXAwBelavW8h3I/view",
+        "giturl": "https://github.com/kaitlinkenney/employee-tracker"
+    },
+    {
+        "id": 5,
+        "title": "Google Books Search",
+        "projimage": "googbooks.png",
+        "description": "Search for a book & view results from the Google Books API. View the book on the Google Books website or save it for later. Visit your list of saved books at any time to view or delete books.",
+        "projurl": "https://googlebookskaitlin.herokuapp.com/",
+        "giturl": "https://github.com/kaitlinkenney/google-books"
+    },
+    {
+        "id": 6,
+        "title": "Workout Tracker",
+        "projimage": "workouttrack.png",
+        "description": "Create a new workout with different exercises. Document your exercises each day, and view your workout stats and total durations on the dashboard page.",
+        "projurl": "https://serene-everglades-49385.herokuapp.com/",
+        "giturl": "https://github.com/kaitlinkenney/workout-tracker"
+    }
+    
+  ]
+  
